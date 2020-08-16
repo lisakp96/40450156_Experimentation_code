@@ -2,16 +2,9 @@
 
 This project contains code for the investigation of traffic on AWS Lambda.
 
-Please change to Branch fileupload_measurement to see code for the Experimentation Section. 
-
-<<<<<<< HEAD
-The Master Branch contains the raw github repositories of both the faas_measure-master and lambda-stopwatch master.
-The Branch fileupload_measruement adds the fileupload API and workloads to the measurment methodology and contains detailed information on what commands to use.
-
-The Master Branch was used to carry out raw experiments without the file upload stream for alter comparison. 
+The Master Branch contains the raw github repositories of both the faas_measure-master and traffic scripts.
 
 The sam-app Folder contains the hello-world lamdba function. The SAM CLI integrates a seperate README containing information on how to deploy the code. The function has been build and deployed accordingly, adding the --region eu-west-2 flag to deploy in the AWS London Region. 
-=======
 
 ###########################################################################
 
